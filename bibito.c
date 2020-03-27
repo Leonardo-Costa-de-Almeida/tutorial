@@ -7,5 +7,6 @@ int main() {
   for (contador = 100; contador >= 20; contador--) {
     printf("\n %i", contador);
   }
+  // comentario1
   system("PAUSE");
 }
