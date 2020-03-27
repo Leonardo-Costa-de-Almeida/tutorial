@@ -2,6 +2,9 @@
 #include <stdlib.h>
 
 int main() {
-  printf("Hello World!!!! 8==D");
+  // IMPRIME 50 BERENGA
+  for (int i = 0; i < 50; i++) {
+    printf("8==D");
+  }
   system("PAUSE");
 }
