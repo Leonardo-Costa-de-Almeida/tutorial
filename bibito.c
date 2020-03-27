@@ -2,11 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-  int contador;
-  contador = 0;
-  for (contador = 100; contador >= 20; contador--) {
-    printf("\n %i", contador);
-  }
-  // comentario1
+  printf("Hello World!!!! 8==D");
   system("PAUSE");
 }
